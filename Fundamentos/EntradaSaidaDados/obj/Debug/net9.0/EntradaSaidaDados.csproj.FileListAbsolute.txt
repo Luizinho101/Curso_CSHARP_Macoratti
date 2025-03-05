@@ -1,0 +1,15 @@
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\bin\Debug\net9.0\EntradaSaidaDados.exe
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\bin\Debug\net9.0\EntradaSaidaDados.deps.json
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\bin\Debug\net9.0\EntradaSaidaDados.runtimeconfig.json
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\bin\Debug\net9.0\EntradaSaidaDados.dll
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\bin\Debug\net9.0\EntradaSaidaDados.pdb
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\obj\Debug\net9.0\EntradaSaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\obj\Debug\net9.0\EntradaSaidaDados.AssemblyInfoInputs.cache
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\obj\Debug\net9.0\EntradaSaidaDados.AssemblyInfo.cs
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\obj\Debug\net9.0\EntradaSaidaDados.csproj.CoreCompileInputs.cache
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\obj\Debug\net9.0\EntradaSaidaDados.sourcelink.json
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\obj\Debug\net9.0\EntradaSaidaDados.dll
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\obj\Debug\net9.0\refint\EntradaSaidaDados.dll
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\obj\Debug\net9.0\EntradaSaidaDados.pdb
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\obj\Debug\net9.0\EntradaSaidaDados.genruntimeconfig.cache
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\EntradaSaidaDados\obj\Debug\net9.0\ref\EntradaSaidaDados.dll
