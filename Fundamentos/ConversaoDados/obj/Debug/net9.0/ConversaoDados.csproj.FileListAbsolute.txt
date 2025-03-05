@@ -1,0 +1,15 @@
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\bin\Debug\net9.0\ConversaoDados.exe
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\bin\Debug\net9.0\ConversaoDados.deps.json
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\bin\Debug\net9.0\ConversaoDados.runtimeconfig.json
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\bin\Debug\net9.0\ConversaoDados.dll
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\bin\Debug\net9.0\ConversaoDados.pdb
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\obj\Debug\net9.0\ConversaoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\obj\Debug\net9.0\ConversaoDados.AssemblyInfoInputs.cache
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\obj\Debug\net9.0\ConversaoDados.AssemblyInfo.cs
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\obj\Debug\net9.0\ConversaoDados.csproj.CoreCompileInputs.cache
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\obj\Debug\net9.0\ConversaoDados.sourcelink.json
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\obj\Debug\net9.0\ConversaoDados.dll
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\obj\Debug\net9.0\refint\ConversaoDados.dll
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\obj\Debug\net9.0\ConversaoDados.pdb
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\obj\Debug\net9.0\ConversaoDados.genruntimeconfig.cache
+C:\Users\luiza\Csharp\Curso_CSHARP_Macoratti\Fundamentos\ConversaoDados\obj\Debug\net9.0\ref\ConversaoDados.dll

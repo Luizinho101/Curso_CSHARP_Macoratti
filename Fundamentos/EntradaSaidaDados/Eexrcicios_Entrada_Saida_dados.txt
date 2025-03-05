@@ -1,0 +1,18 @@
+
+
+Conversão de Dados
+
+Exercício 1 : Peça ao usuário um número decimal (double) e exiba o número como inteiro.
+
+Entrada: 5.78
+Saída: "Número convertido: 5"
+
+Exercício 2 : Solicite um número e converta-o para string antes de exibi-lo.
+
+Entrada: 10
+Saída: "O número como string é '10'."
+
+Exercício 3 : Peça ao usuário um número e converta-o para booleano (true se diferente de 0).
+
+Entrada: 0
+Saída: "Valor booleano: False"

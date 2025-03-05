@@ -1,0 +1,15 @@
+Formatação da Saída
+
+Exercício 1 : Solicite um número decimal e exiba-o com duas casas decimais.
+
+Entrada: 3.14159
+Saída: "Número formatado: 3.14"
+
+
+Exercício 2 : Exiba a data atual formatada como "dd/MM/yyyy".
+
+Saída: "Data atual: 04/03/2025"
+
+Exercício 3 : Peça um número e exiba-o como moeda.
+
+Entrada: 2500

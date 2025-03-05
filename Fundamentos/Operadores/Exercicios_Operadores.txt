@@ -1,0 +1,25 @@
+
+
+Operadores
+
+Exercício: Solicite dois números e exiba a soma, subtração, multiplicação e divisão.
+
+Entrada: 8, 4
+Saída:
+
+Soma: 12
+Subtração: 4
+Multiplicação: 32
+Divisão: 2
+
+
+Exercício 2 : Peça um número e verifique se é par ou ímpar.
+
+Entrada: 7
+Saída: "O número 7 é ímpar."
+
+
+Exercício 3 : Solicite dois números e determine qual é maior ou se são iguais.
+
+Entrada: 5, 10
+Saída: "10 é maior que 5."

@@ -1,0 +1,16 @@
+Entrada e Saída de Dados
+
+
+Exercício 1 : Peça para o usuário digitar seu nome e idade e exiba-os formatados.
+
+Entrada: Luiz, 24
+Saída: "Seu nome é Luiz e você tem 24 anos."
+
+Exercício 2 : Solicite ao usuário dois números inteiros e exiba a soma.
+
+Entrada: 5, 7
+Saída: "A soma de 5 e 7 é 12."
+
+
+
+
